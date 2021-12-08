@@ -1,0 +1,9 @@
+#distance::after{
+    content: " km";
+}
+#cost::after{
+    content: " €";
+}
+#age::after{
+    content: " anni";
+}
